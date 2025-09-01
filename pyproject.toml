@@ -35,7 +35,7 @@ dev = [
     "pytest-asyncio>=1.1.0",
     "pytest-cov>=6.2.1",
     "ruff>=0.12.7",
-    "bandit==1.0.1"
+    "bandit==1.8.6"
 ]
 
 [project.urls]
